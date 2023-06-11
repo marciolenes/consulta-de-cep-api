@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./css/style.css" rel="stylesheet" />
+     <script src="js/main.js " defer></script>
+    <title>Consulta de CEP</title>
+</head>
+
+<body>
+    <h1>Consulta de CEP</h1>
+    <main class="container">
+        <div class="row">
+            <div class="inputbox">
+                <input type="text" maxlength="9" id="cep">
+                <label for="cep">CEP</label>
+            </div>
+            <div class="inputbox">
+                <input type="text" id="logradouro">
+                <label for="logradouro">Logradouro</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="inputbox">
+                <input type="text" id="bairro">
+                <label for="bairro">Bairro</label>
+            </div>
+            <div class="inputbox ">
+                <input type="text " id="localidade">
+                <label for="localidade ">Cidade</label>
+            </div>
+            <div class="inputbox">
+                <input type="text " id="uf">
+                <label for="uf">Estado</label>
+            </div>
+            <button class="btn" id="btnReiniciar" onClick="recarregarAPagina()">Reiniciar</button>
+        </div>
+    </main>
+    <footer>
+        <span>&copy; Marcio Leñes, 2022 - Todos os direitos reservados.</span>
+    </footer>  
+</body>
+</html>
