@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Consulta de CEP](https://consulta-de-cep-via-api.netlify.app/)
+- [Consulta de CEP](https://consulta-cep-api.netlify.app/)
