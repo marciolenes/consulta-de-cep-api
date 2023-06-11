@@ -1,5 +1,5 @@
 ##  Consulta de CEP
-### Um outro rojeto realizado para demonstrar na prática o consumo de uma [API](https://viacep.com.br/)
+### Outro projeto realizado para demonstrar na prática o consumo de uma [API](https://viacep.com.br/)
 <br>
 <p float="center">
   <img src="screenshot.do.projeto.png"></img><p>
